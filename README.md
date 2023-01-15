@@ -1,0 +1,2 @@
+# Planq-mainnet
+Planq-network
